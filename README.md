@@ -6,9 +6,9 @@
 - 📧 How to reach me **oleksandr_g-medium@yahoo.com**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oleksandr-g-rock&show_icons=true" alt="hzitoun" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oleksandr-g-rock&show_icons=true" alt="oleksandr-g-rock" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandr-g-rock&layout=compact&hide=html" alt="oleksandr-g-rock" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandr-g-rock&layout=compact&hide=html" alt="oleksandr-g-rock" /></p>
 
 
 
@@ -17,7 +17,6 @@
 
 
 <p align="center"> 
-
 <a href="https://www.linkedin.com/in/oleksandr-g/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/oleksandr-g/" height="30" width="30" /></a>
 <a href="https://oleksandrg.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://oleksandrg.medium.com/" height="30" width="30" /></a>
 </p>
