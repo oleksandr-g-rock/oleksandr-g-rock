@@ -6,7 +6,7 @@
 - 📧 How to reach me **oleksandr_g-medium@yahoo.com**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oleksandr-g-rock&show_icons=true" alt="oleksandr-g-rock" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oleksandr-g-rock&show_icons=true&theme=radical" alt="oleksandr-g-rock" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandr-g-rock&layout=compact&hide=html" alt="oleksandr-g-rock" /></p>
 
