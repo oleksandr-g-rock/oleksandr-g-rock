@@ -9,8 +9,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandr-g-rock&layout=compact&hide=html" alt="oleksandr-g-rock" /></p>
 
 
+<p align="left"> <img src="https://oleksandrg.medium.com/" alt="oleksandr-g-rock" /> </p>
 
-<p> 🔭 I’m currently working on ML Project</p>
+<p align="left">  🔭 I’m currently working on ML Project</p>
 
 
 
@@ -18,3 +19,5 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oleksandr-g-rock" alt="oleksandr-g-rock" /> </p>
+
+
