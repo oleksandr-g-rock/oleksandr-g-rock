@@ -1,7 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 🖖, I'm oleksandr-g-rock</h1>
+<h3 align="center">ML DevOps Engineer</h3>
 
-
-**I'm oleksandr-g-rock**
+- 📜 I write a lot of articles on [https://oleksandrg.medium.com/](https://oleksandrg.medium.com/)
+- 📶 My LinkedIn profile [https://www.linkedin.com/in/oleksandr-g/](https://www.linkedin.com/in/oleksandr-g/)
+- 📧 How to reach me **oleksandr_g-medium@yahoo.com**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oleksandr-g-rock&show_icons=true" alt="hzitoun" /></p>
@@ -11,7 +13,9 @@
 
 <p align="left"> <img src="https://oleksandrg.medium.com/" alt="oleksandr-g-rock" /> </p>
 
-<p align="left">  🔭 I’m currently working on ML Project</p>
+
+
+<p align="left">  🔭 I’m currently working on ML Project </p>
 
 
 
@@ -20,4 +24,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oleksandr-g-rock" alt="oleksandr-g-rock" /> </p>
 
+<p align="center"> 
 
+<a href="https://www.linkedin.com/in/oleksandr-g/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/oleksandr-g/" height="30" width="30" /></a>
+<a href="https://oleksandrg.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://oleksandrg.medium.com/" height="30" width="30" /></a>
+</p>
