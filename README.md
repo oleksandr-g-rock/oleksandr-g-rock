@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🖖, I'm oleksandr-g-rock</h1>
+<h1 align="center">Hi 🌍, I'm oleksandr-g-rock</h1>
 <h3 align="center">ML DevOps Engineer</h3>
 
 - 📜 I write a lot of articles on [https://oleksandrg.medium.com/](https://oleksandrg.medium.com/)
