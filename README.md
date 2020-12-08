@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**oleksandr-g-rock/oleksandr-g-rock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oleksandr-g-rock/oleksandr-g-rock**
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oleksandr-g-rock&show_icons=true" alt="hzitoun" /></p>
@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oleksandr-g-rock" alt="oleksandr-g-rock" /> </p>
