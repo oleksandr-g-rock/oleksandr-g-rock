@@ -2,7 +2,7 @@
 <h3 align="center">ML DevOps Engineer</h3>
 
 - 📜 I write a lot of articles on [https://oleksandrg.medium.com/](https://oleksandrg.medium.com/)
-- 📶 My LinkedIn profile [https://www.linkedin.com/in/oleksandr-g/](https://www.linkedin.com/in/oleksandr-g/)
+- 📶 My LinkedIn profile [https://www.linkedin.com/in/alex-g-417728201/](https://www.linkedin.com/in/alex-g-417728201/)
 - 📧 How to reach me **oleksandr_g-medium@yahoo.com**
 
 
@@ -13,12 +13,5 @@
 
 
 
-
-
-
-<p align="center"> 
-<a href="https://linkedin.com/in/oleksandr-g/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oleksandr-g" height="30" width="30" /></a>
-<a href="https://oleksandrg.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://oleksandrg.medium.com/" height="30" width="30" /></a>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oleksandr-g-rock" alt="oleksandr-g-rock" /> </p>
