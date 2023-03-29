@@ -2,7 +2,6 @@
 <h3 align="center">ML DevOps Engineer</h3>
 
 - 📜 I write a lot of articles on [https://oleksandrg.medium.com/](https://oleksandrg.medium.com/)
-- 📱 My Twitter profile: https://twitter.com/alex_g_alex_g
 - 📧 How to reach me **oleksandr_g-medium@yahoo.com**
 
 
