@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🌍, I'm Alex G </h1>
-<h3 align="center">ML DevOps Engineer</h3>
+<h3 align="center"> DevOps Engineer</h3>
 
 - 📜 I write a lot of articles on [https://oleksandrg.medium.com/](https://oleksandrg.medium.com/)
 - 📧 How to reach me **oleksandr_g-medium@yahoo.com**
