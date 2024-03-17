@@ -24,10 +24,6 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=oleksandr-g-rock&theme=minimal" alt="Contribution Graph" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=oleksandr-g-rock&theme=algolia" alt="GitHub Trophies" />
 </p>
 
