@@ -104,3 +104,9 @@
 - **AI & Data Science Initiatives**: Developed and implemented AI-based solutions, improving project interfaces and operational efficiency.
 
 <h3 align="center">Let's connect and collaborate! 🚀</h3>
+<h3 align="center">📈 GitHub Statistics</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oleksandr-g-rock&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/oleksandr-g-rock?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/oleksandr-g-rock?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+</p>
