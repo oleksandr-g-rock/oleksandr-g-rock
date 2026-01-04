@@ -86,7 +86,6 @@ A containerized, privacy-focused microservice connecting **Telegram** to the **W
   <img src="https://komarev.com/ghpvc/?username=oleksandr-g-rock&style=for-the-badge&color=7209b7" alt="Profile Views" />
 </div>
 
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,240046,3c096c,5a189a,7b2cbf&height=120&section=footer&fontSize=0" width="100%"/>
