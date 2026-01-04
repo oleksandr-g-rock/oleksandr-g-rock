@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7b2cbf,3a0ca3,4361ee,4cc9f0&height=250&section=header&text=Oleksandr%20G.&fontSize=80&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Senior%20DevOps%20%7C%20AI%20Engineer&descAlign=50&descAlignY=60&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7b2cbf,3a0ca3,4361ee,4cc9f0&height=250&section=header&text=Oleksandr%20G.&fontSize=80&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Senior%20DevOps%20%7C%20AI%20Engineer&descAlign=50&descAlignY=60&descSize=25&fontColor=ffffff" width="100%"/>
 </div>
 
 <h1 align="center">
@@ -61,12 +61,18 @@ A containerized, privacy-focused microservice connecting **Telegram** to the **W
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oleksandr-g-rock&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandr-g-rock&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oleksandr-g-rock&show_icons=true&theme=midnight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandr-g-rock&layout=compact&theme=midnight&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=oleksandr-g-rock&style=for-the-badge&color=7209b7" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=oleksandr-g-rock&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,240046,3c096c,5a189a,7b2cbf&height=120&section=footer" width="100%"/>
 </div>
