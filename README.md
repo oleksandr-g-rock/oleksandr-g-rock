@@ -80,15 +80,6 @@ A containerized, privacy-focused microservice connecting **Telegram** to the **W
 
 ---
 
-### 📈 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oleksandr-g-rock&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=oleksandr-g-rock&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandr-g-rock&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
-
 <br />
 
 <div align="center">
